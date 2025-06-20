@@ -1,4 +1,4 @@
-<h2 align="center">I'm Yoki<br>A frontend and backend developer from Poland!</h2>
+<h2 align="center">I'm Yoki<br>A fullstack developer from Poland!</h2>
 
 ###
 
