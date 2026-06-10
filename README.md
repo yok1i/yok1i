@@ -38,10 +38,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yok1i/yok1i/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
