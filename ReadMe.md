@@ -1,5 +1,5 @@
 # 💫 About Me:
-I worked for:<br>DotMC.PL<br>McClub.PL<br>BoksPvp.PL
+I worked for:<br>DotMC.PL (FULL TECHNICAL MANAGEMENT)<br>McClub.PL (FULL TECHNICAL MANAGEMENT)<br>WifiCraft.PL (DDoS PROTECTION)
 
 
 # 💻 Tech Stack:
